@@ -1,1 +1,1 @@
-This is Git Skill 1 practical.
+This is Git Skill 1 practical.Bug fix applied.
