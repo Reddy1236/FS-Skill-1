@@ -1,1 +1,1 @@
-This is Git Skill 1 practical.
+This is Git Skill 1 practical.And it is pushed into GitHub now.Feature update added.
